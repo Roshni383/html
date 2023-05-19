@@ -1,0 +1,27 @@
+.login{
+
+    background:radial-gradient(#17b89a,#318ab3);
+    height:1000px;
+    width:100%;
+    position:relative;
+
+}
+.login_box{
+
+    width:1200px;
+    height:400px;
+    position:absolute;
+    top:20%;
+    right: 20%;
+    LEFT:20%;
+    transform : translate(-20%,-10%);
+    background:#fff;
+    border-radius:100px;
+    BOX-SHADOW:1px 4PX 22px 8px #00fff0;
+    display:flex;
+    overflow:hidden;
+    margin-top:80px;
+    padding: 80px;
+    border: 100px rgb(139, 0, 35);
+
+}

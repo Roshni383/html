@@ -1,0 +1,38 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(175, 180, 243);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(252, 244, 244);
+  }
+  .card-img-top{
+    height:300px;
+  }
+  .card-img{
+    height:200px;
+  }
+  .row {
+background-color: #50adb5;
+  }
+  .card-text{
+    font-size: 20px;
+  }
+  .card-title{
+    font-size: 35px;
+  }

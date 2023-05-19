@@ -1,0 +1,25 @@
+.bgimage{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('images/background.png') no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.moon{
+    position:absolute;
+    top:20%;
+    display: flex;
+    justify-content:top;
+    align-items:top;
+}
+.bg{
+    position:absolute;
+    top:20%;display: flex;
+    justify-content:center;
+    align-items:left;
+    background-attachment: fixed;
+}

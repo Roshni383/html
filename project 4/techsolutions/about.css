@@ -1,0 +1,19 @@
+.heading1{
+    background-color:#0071c1;
+    color:white;
+    text-align: center;
+  }
+  .heading2{
+    font-size:70px;
+    text-align: center;
+  }
+  .heading6{
+    font-size:30px;
+  }
+  p{
+    font-size:20px
+  }
+  img{
+    height:730px;
+    Width:960px;
+  }

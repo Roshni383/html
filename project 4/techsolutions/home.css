@@ -1,0 +1,36 @@
+.nav-link{
+    color:white;
+  }
+  .nav-link:hover{
+    background-color:white;
+  }
+  .card-img{
+    height:938px;
+  }
+  .card-body{
+    margin-top:200px;
+    position: relative;
+  
+  }
+  .card-title1{
+    position: relative;
+    animation: mymove 5s; 
+  animation-delay: 1s;
+}
+
+.card-title2{
+  position: relative;
+  animation: mymove 5s;
+  animation-delay: 2s;
+}
+
+.card-title3{
+  color:red;
+  position: relative;
+  animation: mymove 5s;
+  animation-delay: 3s;
+}
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 200px;}
+}

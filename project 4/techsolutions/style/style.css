@@ -1,0 +1,23 @@
+.nav{
+  background-color: rgb(175, 180, 243);
+ }
+ a {
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+    display: block;
+  color:white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+ }
+ a:hover {
+  background-color: rgb(252, 244, 244);
+ }
+ .navbar{
+  background-color: rgb(175, 180, 243);
+ }
+ 

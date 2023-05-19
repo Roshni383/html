@@ -1,0 +1,22 @@
+.bgimage {
+    margin-top:90;
+    position:relative;
+
+}
+.image{
+    
+    justify-content:center;
+    position:relative;
+}
+.bg{
+    justify-content:center;
+    display:flex;
+    position:relative;
+
+}
+.grass {
+    
+    justify-content:center;
+    display:flex;
+    position:relative;
+}
